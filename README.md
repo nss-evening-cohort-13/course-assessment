@@ -13,6 +13,7 @@ Using this API: https://official-joke-api.appspot.com/random_joke, create a joke
 - Create a new repo called 'Joke Generator' using the Webpack Template
 - Create a wireframe for your application using figma
 - Create tickets for what you will do (KEEP IT SIMPLE)
+- Use Postman to see your responses from the API
 - Build the application
 - Deploy the application using Netlify or Firebase
 - Update your readme with screenshots and a link to your deployed application
