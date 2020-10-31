@@ -1,6 +1,6 @@
 # Joke Generator
 
-For this assessment, you will have the rest of class to finish.
+For this assessment, you will have until 1:30PM to complete the application.
 
 Using this API: https://official-joke-api.appspot.com/random_joke, create a joke generator application that gets a joke (setup) and allows the user to press a button to get the answer (punchline)
 
@@ -10,9 +10,7 @@ Using this API: https://official-joke-api.appspot.com/random_joke, create a joke
 - The user can then get another joke by pressing the "get a joke" button
 
 ## TASK
-- Create a new repo called 'Joke Generator' using the Webpack Template
-- Create a wireframe for your application using figma
-- Create tickets for what you will do (KEEP IT SIMPLE)
+- Create a new repo called 'Joke Generator' using the Webpack Template (KEEP IT SIMPLE)
 - Use Postman to see your responses from the API
 - Build the application
 - Deploy the application using Netlify or Firebase
